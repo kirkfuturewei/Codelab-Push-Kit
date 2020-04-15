@@ -1,0 +1,27 @@
+{
+	"agcgw":{
+		"backurl":"connect-dre.dbankcloud.cn",
+		"url":"connect-dre.hispace.hicloud.com"
+	},
+	"client":{
+		"cp_id":"890001000000000755",
+		"product_id":"9105385871708496417",
+		"client_id":"305199812960060416",
+		"client_secret":"831A7DD10DA92831831325CDA9D9FADC4559E7DC12B915173D6EFCC0CCBBB204",
+		"app_id":"101770209",
+		"package_name":"com.dora.pushDemo",
+		"api_key":"CV588cn0HHh71z6/u1e6lO2i02m1T3autF7TbMSVeylxQpi4kDnTktjs5xylUgUEVfBjN/4p3qP3PNjA0yYtrcDMlfx0"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-dre.dt.hicloud.com,datacollector-dre.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		},
+		"ml":{
+			"mlservice_url":"ml-api-dre.ai.dbankcloud.com,ml-api-dre.ai.dbankcloud.cn"
+		}
+	},
+	"region":"DE",
+	"configuration_version":"1.0"
+}
